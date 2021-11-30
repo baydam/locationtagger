@@ -1,0 +1,810 @@
+geoname_id,continent_code,continent_name,country_iso_code,country_name,subdivision_iso_code,subdivision_name,city_name,metro_code,time_zone
+935317,AF,Africa,RE,Réunion,,,,,Indian/Reunion
+921815,AF,Africa,YT,Mayotte,,Mamoudzou,Mamoutzou,,Indian/Mayotte
+935582,AF,Africa,RE,Réunion,,,Le Tampon,,Indian/Reunion
+935227,AF,Africa,RE,Réunion,,,Saint-Joseph,,Indian/Reunion
+935685,AF,Africa,RE,Réunion,,,La Riviere,,Indian/Reunion
+935691,AF,Africa,RE,Réunion,,,La Possession,,Indian/Reunion
+935268,AF,Africa,RE,Réunion,,,Saint-Andre,,Indian/Reunion
+2215636,AF,Africa,LY,Libya,,,,,Africa/Tripoli
+2210247,AF,Africa,LY,Libya,TB,Tripoli District,Tripoli,,Africa/Tripoli
+192950,AF,Africa,KE,Kenya,,,,,Africa/Nairobi
+241170,AF,Africa,SC,Seychelles,,,,,Indian/Mahe
+993800,AF,Africa,ZA,South Africa,GP,Gauteng,Johannesburg,,Africa/Johannesburg
+2328926,AF,Africa,NG,Nigeria,,,,,Africa/Lagos
+953987,AF,Africa,ZA,South Africa,,,,,Africa/Johannesburg
+1002108,AF,Africa,ZA,South Africa,GP,Gauteng,Germiston,,Africa/Johannesburg
+936374,AF,Africa,ZA,South Africa,GP,Gauteng,Roodepoort,,Africa/Johannesburg
+1001496,AF,Africa,ZA,South Africa,GP,Gauteng,Glenvista,,Africa/Johannesburg
+946877,AF,Africa,ZA,South Africa,EC,Province of Eastern Cape,Uitenhage,,Africa/Johannesburg
+991415,AF,Africa,ZA,South Africa,GP,Gauteng,Kempton Park,,Africa/Johannesburg
+1007311,AF,Africa,ZA,South Africa,ZN,KwaZulu-Natal,Durban,,Africa/Johannesburg
+1010717,AF,Africa,ZA,South Africa,EC,Province of Eastern Cape,Despatch,,Africa/Johannesburg
+1105776,AF,Africa,ZA,South Africa,GP,Gauteng,Midrand,,Africa/Johannesburg
+964137,AF,Africa,ZA,South Africa,GP,Gauteng,Pretoria,,Africa/Johannesburg
+1105777,AF,Africa,ZA,South Africa,GP,Gauteng,Centurion,,Africa/Johannesburg
+964420,AF,Africa,ZA,South Africa,EC,Province of Eastern Cape,Port Elizabeth,,Africa/Johannesburg
+957655,AF,Africa,ZA,South Africa,GP,Gauteng,Sandton,,Africa/Johannesburg
+978652,AF,Africa,ZA,South Africa,GP,Gauteng,Marshalltown,,Africa/Johannesburg
+1017780,AF,Africa,ZA,South Africa,GP,Gauteng,Boksburg,,Africa/Johannesburg
+966190,AF,Africa,ZA,South Africa,GP,Gauteng,Parktown,,Africa/Johannesburg
+3369157,AF,Africa,ZA,South Africa,WC,Province of the Western Cape,Cape Town,,Africa/Johannesburg
+3361025,AF,Africa,ZA,South Africa,WC,Province of the Western Cape,Stellenbosch,,Africa/Johannesburg
+1015504,AF,Africa,ZA,South Africa,GP,Gauteng,Bronkhorstspruit,,Africa/Johannesburg
+3360934,AF,Africa,ZA,South Africa,WC,Province of the Western Cape,Strand,,Africa/Johannesburg
+3363094,AF,Africa,ZA,South Africa,WC,Province of the Western Cape,Paarl,,Africa/Johannesburg
+3360549,AF,Africa,ZA,South Africa,WC,Province of the Western Cape,Thornton,,Africa/Johannesburg
+3370141,AF,Africa,ZA,South Africa,WC,Province of the Western Cape,Bellville,,Africa/Johannesburg
+6951112,AF,Africa,ZA,South Africa,WC,Province of the Western Cape,Somerset West,,Africa/Johannesburg
+939340,AF,Africa,ZA,South Africa,ZN,KwaZulu-Natal,Winterton,,Africa/Johannesburg
+3367445,AF,Africa,ZA,South Africa,WC,Province of the Western Cape,Green Point,,Africa/Johannesburg
+997431,AF,Africa,ZA,South Africa,WC,Province of the Western Cape,Hartenbos,,Africa/Johannesburg
+3360873,AF,Africa,ZA,South Africa,WC,Province of the Western Cape,Sun Valley,,Africa/Johannesburg
+3365083,AF,Africa,ZA,South Africa,WC,Province of the Western Cape,Kraaifontein,,Africa/Johannesburg
+956754,AF,Africa,ZA,South Africa,WC,Province of the Western Cape,Sedgefield,,Africa/Johannesburg
+982299,AF,Africa,ZA,South Africa,MP,Mpumalanga,London,,Africa/Johannesburg
+965301,AF,Africa,ZA,South Africa,ZN,KwaZulu-Natal,Pietermaritzburg,,Africa/Johannesburg
+978895,AF,Africa,ZA,South Africa,ZN,KwaZulu-Natal,Margate,,Africa/Johannesburg
+1023441,AF,Africa,ZA,South Africa,GP,Gauteng,Alberton,,Africa/Johannesburg
+1020098,AF,Africa,ZA,South Africa,GP,Gauteng,Benoni,,Africa/Johannesburg
+940316,AF,Africa,ZA,South Africa,GP,Gauteng,Westonaria,,Africa/Johannesburg
+1013886,AF,Africa,ZA,South Africa,ZN,KwaZulu-Natal,Cato Ridge,,Africa/Johannesburg
+964574,AF,Africa,ZA,South Africa,ZN,KwaZulu-Natal,Pongola,,Africa/Johannesburg
+964406,AF,Africa,ZA,South Africa,ZN,KwaZulu-Natal,Port Shepstone,,Africa/Johannesburg
+958724,AF,Africa,ZA,South Africa,NW,Province of North West,Rustenburg,,Africa/Johannesburg
+1105727,AF,Africa,ZA,South Africa,GP,Gauteng,Kwamhlanga,,Africa/Johannesburg
+997678,AF,Africa,ZA,South Africa,NW,Province of North West,Hartbeespoort,,Africa/Johannesburg
+976361,AF,Africa,ZA,South Africa,MP,Mpumalanga,Middelburg,,Africa/Johannesburg
+1019760,AF,Africa,ZA,South Africa,MP,Mpumalanga,Bethal,,Africa/Johannesburg
+969688,AF,Africa,ZA,South Africa,GP,Gauteng,Northcliff,,Africa/Johannesburg
+990930,AF,Africa,ZA,South Africa,NC,Northern Cape,Kimberley,,Africa/Johannesburg
+982719,AF,Africa,ZA,South Africa,GP,Gauteng,Linden,,Africa/Johannesburg
+1006834,AF,Africa,ZA,South Africa,GP,Gauteng,Edenvale,,Africa/Johannesburg
+981084,AF,Africa,ZA,South Africa,GP,Gauteng,Lyttelton,,Africa/Johannesburg
+961065,AF,Africa,ZA,South Africa,GP,Gauteng,Rivonia,,Africa/Johannesburg
+972674,AF,Africa,ZA,South Africa,GP,Gauteng,Muldersdrift,,Africa/Johannesburg
+952869,AF,Africa,ZA,South Africa,GP,Gauteng,Springs,,Africa/Johannesburg
+986822,AF,Africa,ZA,South Africa,GP,Gauteng,Krugersdorp,,Africa/Johannesburg
+1023098,AF,Africa,ZA,South Africa,GP,Gauteng,Alrode,,Africa/Johannesburg
+997151,AF,Africa,ZA,South Africa,GP,Gauteng,Heidelberg,,Africa/Johannesburg
+963230,AF,Africa,ZA,South Africa,GP,Gauteng,Randfontein,,Africa/Johannesburg
+964136,AF,Africa,ZA,South Africa,EC,Province of Eastern Cape,Pretoria,,Africa/Johannesburg
+944385,AF,Africa,ZA,South Africa,GP,Gauteng,Vereeniging,,Africa/Johannesburg
+7870429,AF,Africa,ZA,South Africa,GP,Gauteng,Florida Glen,,Africa/Johannesburg
+963241,AF,Africa,ZA,South Africa,GP,Gauteng,Randburg,,Africa/Johannesburg
+968296,AF,Africa,ZA,South Africa,GP,Gauteng,Olifantsfontein,,Africa/Johannesburg
+1003820,AF,Africa,ZA,South Africa,GP,Gauteng,Fourways,,Africa/Johannesburg
+3367877,AF,Africa,ZA,South Africa,WC,Province of the Western Cape,Franschhoek,,Africa/Johannesburg
+1018725,AF,Africa,ZA,South Africa,FS,Orange Free State,Bloemfontein,,Africa/Johannesburg
+982332,AF,Africa,ZA,South Africa,GP,Gauteng,Lombardy East,,Africa/Johannesburg
+1016513,AF,Africa,ZA,South Africa,EC,Province of Eastern Cape,Braamfontein,,Africa/Johannesburg
+957487,AF,Africa,ZA,South Africa,FS,Orange Free State,Sasolburg,,Africa/Johannesburg
+1020066,AF,Africa,ZA,South Africa,ZN,KwaZulu-Natal,Berea,,Africa/Johannesburg
+1015621,AF,Africa,ZA,South Africa,NW,Province of North West,Brits,,Africa/Johannesburg
+944986,AF,Africa,ZA,South Africa,GP,Gauteng,Vanderbijlpark,,Africa/Johannesburg
+8030070,AF,Africa,ZA,South Africa,GP,Gauteng,Morningside Manor,,Africa/Johannesburg
+983199,AF,Africa,ZA,South Africa,GP,Gauteng,Lenasia,,Africa/Johannesburg
+1009687,AF,Africa,ZA,South Africa,GP,Gauteng,Dobsonville,,Africa/Johannesburg
+1016181,AF,Africa,ZA,South Africa,GP,Gauteng,Brakpan,,Africa/Johannesburg
+357994,AF,Africa,EG,Egypt,,,,,Africa/Cairo
+360630,AF,Africa,EG,Egypt,C,Muhafazat al Qahirah,Cairo,,Africa/Cairo
+360995,AF,Africa,EG,Egypt,GZ,Muhafazat al Jizah,Giza,,Africa/Cairo
+361058,AF,Africa,EG,Egypt,ALX,Alexandria,Alexandria,,Africa/Cairo
+349080,AF,Africa,EG,Egypt,C,Muhafazat al Qahirah,Shubra,,Africa/Cairo
+355795,AF,Africa,EG,Egypt,C,Muhafazat al Qahirah,Helwan,,Africa/Cairo
+358448,AF,Africa,EG,Egypt,BH,Beheira Governorate,Damanhur,,Africa/Cairo
+408919,AF,Africa,EG,Egypt,BH,Beheira Governorate,An Nubariyah,,Africa/Cairo
+358048,AF,Africa,EG,Egypt,DT,Muhafazat Dumyat,Damietta,,Africa/Cairo
+360048,AF,Africa,EG,Egypt,MNF,Muhafazat al Minufiyah,Ashmun,,Africa/Cairo
+361320,AF,Africa,EG,Egypt,FYM,Muhafazat al Fayyum,Al Fayyum,,Africa/Cairo
+358619,AF,Africa,EG,Egypt,PTS,Muhafazat Bur Sa`id,Port Said,,Africa/Cairo
+353225,AF,Africa,EG,Egypt,C,Muhafazat al Qahirah,Madinat an Nasr,,Africa/Cairo
+360761,AF,Africa,EG,Egypt,DK,Muhafazat ad Daqahliyah,Al Mansurah,,Africa/Cairo
+347591,AF,Africa,EG,Egypt,DK,Muhafazat ad Daqahliyah,Talkha,,Africa/Cairo
+359173,AF,Africa,EG,Egypt,BNS,Muhafazat Bani Suwayf,Bani Suwayf,,Africa/Cairo
+347796,AF,Africa,EG,Egypt,SHG,Muhafazat Suhaj,Sohag,,Africa/Cairo
+347497,AF,Africa,EG,Egypt,GH,Muhafazat al Gharbiyah,Tanta,,Africa/Cairo
+346030,AF,Africa,EG,Egypt,GH,Muhafazat al Gharbiyah,Zifta,,Africa/Cairo
+355939,AF,Africa,EG,Egypt,SHR,Eastern Province,Hihya,,Africa/Cairo
+359493,AF,Africa,EG,Egypt,SHR,Eastern Province,Zagazig,,Africa/Cairo
+359783,AF,Africa,EG,Egypt,AST,Muhafazat Asyut,Assiut,,Africa/Cairo
+352262,AF,Africa,EG,Egypt,C,Muhafazat al Qahirah,Heliopolis,,Africa/Cairo
+8134081,AF,Africa,EG,Egypt,,,Al Qahirah al Jadidah,,Africa/Cairo
+941923,AF,Africa,ZA,South Africa,ZN,KwaZulu-Natal,Wartburg,,Africa/Johannesburg
+1022953,AF,Africa,ZA,South Africa,ZN,KwaZulu-Natal,Amanzimtoti,,Africa/Johannesburg
+939270,AF,Africa,ZA,South Africa,MP,Mpumalanga,Witbank,,Africa/Johannesburg
+955487,AF,Africa,ZA,South Africa,GP,Gauteng,Sinoville,,Africa/Johannesburg
+991367,AF,Africa,ZA,South Africa,GP,Gauteng,Kensington,,Africa/Johannesburg
+3364937,AF,Africa,ZA,South Africa,WC,Province of the Western Cape,Kuils River,,Africa/Johannesburg
+1004109,AF,Africa,ZA,South Africa,NW,Province of North West,Fochville,,Africa/Johannesburg
+878675,AF,Africa,ZW,Zimbabwe,,,,,Africa/Harare
+2275384,AF,Africa,LR,Liberia,,,,,Africa/Monrovia
+184745,AF,Africa,KE,Kenya,110,Nairobi Province,Nairobi,,Africa/Nairobi
+2300660,AF,Africa,GH,Ghana,,,,,Africa/Accra
+938749,AF,Africa,ZA,South Africa,GP,Gauteng,Witpoortjie,,Africa/Johannesburg
+2306104,AF,Africa,GH,Ghana,AA,Greater Accra Region,Accra,,Africa/Accra
+2332459,AF,Africa,NG,Nigeria,LA,Lagos,Lagos,,Africa/Lagos
+6826467,AF,Africa,NG,Nigeria,LA,Lagos,Ikotun,,Africa/Lagos
+2337408,AF,Africa,NG,Nigeria,LA,Lagos,Ipaja,,Africa/Lagos
+2338313,AF,Africa,NG,Nigeria,LA,Lagos,Ikeja,,Africa/Lagos
+2566691,AF,Africa,NG,Nigeria,LA,Lagos,Aguda,,Africa/Lagos
+2566695,AF,Africa,NG,Nigeria,LA,Lagos,Ifako,,Africa/Lagos
+2322794,AF,Africa,NG,Nigeria,NI,Niger State,Suleja,,Africa/Lagos
+2334532,AF,Africa,NG,Nigeria,LA,Lagos,Ketu,,Africa/Lagos
+2325813,AF,Africa,NG,Nigeria,LA,Lagos,Oregun,,Africa/Lagos
+149590,AF,Africa,TZ,Tanzania,,,,,Africa/Dar_es_Salaam
+160263,AF,Africa,TZ,Tanzania,2,Dar es Salaam Region,Dar es Salaam,,Africa/Dar_es_Salaam
+161325,AF,Africa,TZ,Tanzania,1,Arusha,Arusha,,Africa/Dar_es_Salaam
+895949,AF,Africa,ZM,Zambia,,,,,Africa/Lusaka
+994526,AF,Africa,ZA,South Africa,GP,Gauteng,Isando,,Africa/Johannesburg
+965289,AF,Africa,ZA,South Africa,LP,Limpopo,Polokwane,,Africa/Johannesburg
+1006984,AF,Africa,ZA,South Africa,EC,Province of Eastern Cape,East London,,Africa/Johannesburg
+989921,AF,Africa,ZA,South Africa,NW,Province of North West,Klerksdorp,,Africa/Johannesburg
+971534,AF,Africa,ZA,South Africa,MP,Mpumalanga,Nelspruit,,Africa/Johannesburg
+909137,AF,Africa,ZM,Zambia,9,Lusaka Province,Lusaka,,Africa/Lusaka
+1062947,AF,Africa,MG,Madagascar,,,,,Indian/Antananarivo
+3351879,AF,Africa,AO,Angola,,,,,Africa/Luanda
+2240449,AF,Africa,AO,Angola,LUA,Luanda Province,Luanda,,Africa/Luanda
+3355338,AF,Africa,,Namibia,,,,,Africa/Windhoek
+3352136,AF,Africa,,Namibia,KH,Khomas,Windhoek,,Africa/Windhoek
+3352844,AF,Africa,,Namibia,ER,Erongo,Swakopmund,,Africa/Windhoek
+350257,AF,Africa,EG,Egypt,BH,Beheira Governorate,Ramsis,,Africa/Cairo
+360124,AF,Africa,EG,Egypt,SHR,Eastern Province,Ar Rawdah,,Africa/Cairo
+2287781,AF,Africa,CI,Ivory Coast,,,,,Africa/Abidjan
+2293538,AF,Africa,CI,Ivory Coast,1,Lagunes,Abidjan,,Africa/Abidjan
+3362864,AF,Africa,ZA,South Africa,WC,Province of the Western Cape,Pinelands,,Africa/Johannesburg
+360829,AF,Africa,EG,Egypt,GH,Muhafazat al Gharbiyah,Al Mahallah al Kubra,,Africa/Cairo
+366755,AF,Africa,SD,Sudan,,,,,Africa/Khartoum
+372753,AF,Africa,SD,Sudan,KA,Kassala,Kassala,,Africa/Khartoum
+226074,AF,Africa,UG,Uganda,,,,,Africa/Kampala
+379252,AF,Africa,SD,Sudan,KH,Khartoum State,Khartoum,,Africa/Khartoum
+369004,AF,Africa,SD,Sudan,DS,Southern Darfur,Nyala,,Africa/Khartoum
+367308,AF,Africa,SD,Sudan,NR,River Nile,Shendi,,Africa/Khartoum
+2233387,AF,Africa,CM,Cameroon,,,,,Africa/Douala
+2232593,AF,Africa,CM,Cameroon,LT,Littoral,Douala,,Africa/Douala
+927384,AF,Africa,MW,Malawi,,,,,Africa/Blantyre
+927628,AF,Africa,MW,Malawi,,,Made,,Africa/Blantyre
+925475,AF,Africa,MW,Malawi,MZ,Mzimba District,Mzuzu,,Africa/Blantyre
+2243271,AF,Africa,AO,Angola,CAB,Cabinda,Cabinda,,Africa/Luanda
+2324774,AF,Africa,NG,Nigeria,RI,Rivers State,Port Harcourt,,Africa/Lagos
+2319480,AF,Africa,NG,Nigeria,AK,Akwa Ibom State,Uyo,,Africa/Lagos
+2338229,AF,Africa,NG,Nigeria,LA,Lagos,Ikorodu,,Africa/Lagos
+904422,AF,Africa,ZM,Zambia,2,Central Province,Mumbwa,,Africa/Lusaka
+911148,AF,Africa,ZM,Zambia,8,Copperbelt,Kitwe,,Africa/Lusaka
+2400553,AF,Africa,GA,Gabon,,,,,Africa/Libreville
+188492,AF,Africa,KE,Kenya,,Machakos District,Machakos,,Africa/Nairobi
+2453866,AF,Africa,ML,Mali,,,,,Africa/Bamako
+2460596,AF,Africa,ML,Mali,BKO,Bamako Region,Bamako,,Africa/Bamako
+152224,AF,Africa,TZ,Tanzania,18,Mwanza,Mwanza,,Africa/Dar_es_Salaam
+2395170,AF,Africa,BJ,Benin,,,,,Africa/Porto-Novo
+2394819,AF,Africa,BJ,Benin,LI,Littoral,Cotonou,,Africa/Porto-Novo
+2434508,AF,Africa,TD,Chad,,,,,Africa/Ndjamena
+933860,AF,Africa,BW,Botswana,,,,,Africa/Gaborone
+933778,AF,Africa,BW,Botswana,NE,North East District,Francistown,,Africa/Gaborone
+933773,AF,Africa,BW,Botswana,SE,South East District,Gaborone,,Africa/Gaborone
+2294034,AF,Africa,GH,Ghana,CP,Central Region,Winneba,,Africa/Accra
+3374766,AF,Africa,CV,Cape Verde,,,,,Atlantic/Cape_Verde
+3374333,AF,Africa,CV,Cape Verde,PR,Concelho da Praia,Praia,,Atlantic/Cape_Verde
+49518,AF,Africa,RW,Rwanda,,,,,Africa/Kigali
+202061,AF,Africa,RW,Rwanda,1,Kigali,Kigali,,Africa/Kigali
+963049,AF,Africa,ZA,South Africa,GP,Gauteng,Rayton,,Africa/Johannesburg
+2260494,AF,Africa,CG,Republic of the Congo,,,,,Africa/Brazzaville
+931755,AF,Africa,MW,Malawi,BL,Blantyre District,Blantyre,,Africa/Blantyre
+3366880,AF,Africa,ZA,South Africa,WC,Province of the Western Cape,Hermanus,,Africa/Johannesburg
+3365754,AF,Africa,ZA,South Africa,WC,Province of the Western Cape,Kleinmond,,Africa/Johannesburg
+2413451,AF,Africa,GM,Gambia,,,,,Africa/Banjul
+1036973,AF,Africa,MZ,Mozambique,,,,,Africa/Maputo
+1040652,AF,Africa,MZ,Mozambique,MPM,Cidade de Maputo,Maputo,,Africa/Maputo
+932692,AF,Africa,LS,Lesotho,,,,,Africa/Maseru
+934292,AF,Africa,MU,Mauritius,,,,,Indian/Mauritius
+934517,AF,Africa,MU,Mauritius,BL,Black River District,Flic en Flac,,Indian/Mauritius
+934812,AF,Africa,MU,Mauritius,BL,Black River District,Albion,,Indian/Mauritius
+934488,AF,Africa,MU,Mauritius,RR,Riviere du Rempart District,Goodlands,,Indian/Mauritius
+934154,AF,Africa,MU,Mauritius,PL,Port Louis District,Port Louis,,Indian/Mauritius
+974222,AF,Africa,ZA,South Africa,ZN,KwaZulu-Natal,Mooi River,,Africa/Johannesburg
+946165,AF,Africa,ZA,South Africa,ZN,KwaZulu-Natal,Umhlanga,,Africa/Johannesburg
+1037390,AF,Africa,MZ,Mozambique,N,Nampula,Mozambique,,Africa/Maputo
+981827,AF,Africa,ZA,South Africa,LP,Limpopo,Louis Trichardt,,Africa/Johannesburg
+2342537,AF,Africa,NG,Nigeria,,,Forum,,Africa/Lagos
+1053384,AF,Africa,MG,Madagascar,,Atsinanana Region,Toamasina,,Indian/Antananarivo
+232422,AF,Africa,UG,Uganda,102,Kampala District,Kampala,,Africa/Kampala
+2542007,AF,Africa,MA,Morocco,,,,,Africa/Casablanca
+2420477,AF,Africa,GN,Guinea,,,,,Africa/Conakry
+2589581,AF,Africa,DZ,Algeria,,,,,Africa/Algiers
+2507480,AF,Africa,DZ,Algeria,16,Wilaya d' Alger,Algiers,,Africa/Algiers
+203312,AF,Africa,CD,Congo,,,,,
+2314302,AF,Africa,CD,Congo,KN,Kinshasa City,Kinshasa,,Africa/Kinshasa
+934841,AF,Africa,SZ,Swaziland,,,,,Africa/Mbabane
+148730,AF,Africa,TZ,Tanzania,15,Zanzibar Urban/West,Zanzibar,,Africa/Dar_es_Salaam
+3369569,AF,Africa,ZA,South Africa,WC,Province of the Western Cape,Botrivier,,Africa/Johannesburg
+2339354,AF,Africa,NG,Nigeria,OY,Oyo State,Ibadan,,Africa/Lagos
+2361809,AF,Africa,BF,Burkina Faso,,,,,Africa/Ouagadougou
+160196,AF,Africa,TZ,Tanzania,3,Dodoma,Dodoma,,Africa/Dar_es_Salaam
+2403846,AF,Africa,SL,Sierra Leone,,,,,Africa/Freetown
+51537,AF,Africa,SO,Somalia,,,,,Africa/Mogadishu
+890299,AF,Africa,ZW,Zimbabwe,HA,Harare,Harare,,Africa/Harare
+2409306,AF,Africa,SL,Sierra Leone,W,Western Area,Freetown,,Africa/Freetown
+2335204,AF,Africa,NG,Nigeria,KN,Kano State,Kano,,Africa/Lagos
+2440476,AF,Africa,NE,Niger,,,,,Africa/Niamey
+239880,AF,Africa,CF,Central African Republic,,,,,Africa/Bangui
+2363686,AF,Africa,TG,Togo,,,,,Africa/Lome
+945945,AF,Africa,ZA,South Africa,NC,Northern Cape,Upington,,Africa/Johannesburg
+1007628,AF,Africa,ZA,South Africa,EC,Province of Eastern Cape,Dube Location,,Africa/Johannesburg
+433561,AF,Africa,BI,Burundi,,,,,Africa/Bujumbura
+425378,AF,Africa,BI,Burundi,BM,Bujumbura Mairie Province,Bujumbura,,Africa/Bujumbura
+2309096,AF,Africa,GQ,Equatorial Guinea,,,,,Africa/Malabo
+2332121,AF,Africa,NG,Nigeria,LA,Lagos,Lekki,,Africa/Lagos
+3368254,AF,Africa,ZA,South Africa,WC,Province of the Western Cape,Durbanville,,Africa/Johannesburg
+7909807,AF,Africa,SS,South Sudan,,,,,Africa/Juba
+373303,AF,Africa,SS,South Sudan,EC,Central Equatoria,Juba,,Africa/Juba
+890748,AF,Africa,ZW,Zimbabwe,HA,Harare,Greendale,,Africa/Harare
+986873,AF,Africa,ZA,South Africa,NW,Province of North West,Kroondal,,Africa/Johannesburg
+2245662,AF,Africa,SN,Senegal,,,,,Africa/Dakar
+2253354,AF,Africa,SN,Senegal,DK,Dakar,Dakar,,Africa/Dakar
+2250805,AF,Africa,SN,Senegal,KL,Kaolack,Kaolack,,Africa/Dakar
+2246512,AF,Africa,SN,Senegal,DK,Dakar,Rufisque,,Africa/Dakar
+2347283,AF,Africa,NG,Nigeria,ED,Edo,Benin City,,Africa/Lagos
+966196,AF,Africa,ZA,South Africa,GP,Gauteng,Parkhurst,,Africa/Johannesburg
+241131,AF,Africa,SC,Seychelles,16,English River,Victoria,,Indian/Mahe
+990880,AF,Africa,ZA,South Africa,ZN,KwaZulu-Natal,Kingsley,,Africa/Johannesburg
+2349656,AF,Africa,NG,Nigeria,LA,Lagos,Apapa,,Africa/Lagos
+191038,AF,Africa,KE,Kenya,,Kitui District,Kitui,,Africa/Nairobi
+184622,AF,Africa,KE,Kenya,,Nakuru District,Nakuru,,Africa/Nairobi
+178077,AF,Africa,KE,Kenya,,Makueni District,Wote,,Africa/Nairobi
+192710,AF,Africa,KE,Kenya,,Kiambu District,Kiambu,,Africa/Nairobi
+195427,AF,Africa,KE,Kenya,,Nandi South District,Kaiboi,,Africa/Nairobi
+191220,AF,Africa,KE,Kenya,,Trans Nzoia District,Kitale,,Africa/Nairobi
+191299,AF,Africa,KE,Kenya,,Kisii District,Kisii,,Africa/Nairobi
+200304,AF,Africa,KE,Kenya,,Siaya District,Bondo,,Africa/Nairobi
+383388,AF,Africa,KE,Kenya,,Siaya District,Siaya,,Africa/Nairobi
+193824,AF,Africa,KE,Kenya,,Kiambu District,Karatina,,Africa/Nairobi
+2530335,AF,Africa,MA,Morocco,TNG,Tanger-Assilah,Tangier,,Africa/Casablanca
+2562055,AF,Africa,MA,Morocco,7,Region de Rabat-Sale-Zemmour-Zaer,Skhirat,,Africa/Casablanca
+2222416,AF,Africa,CM,Cameroon,NO,North Province,Ringo,,Africa/Douala
+2220957,AF,Africa,CM,Cameroon,CE,Centre,Yaoundé,,Africa/Douala
+2235189,AF,Africa,CM,Cameroon,OU,West,Bafoussam,,Africa/Douala
+2506999,AF,Africa,DZ,Algeria,23,Annaba,Annaba,,Africa/Algiers
+2495662,AF,Africa,DZ,Algeria,24,Wilaya de Guelma,Guelma,,Africa/Algiers
+2505572,AF,Africa,DZ,Algeria,5,Wilaya de Batna,Batna City,,Africa/Algiers
+2501152,AF,Africa,DZ,Algeria,25,Wilaya de Constantine,Constantine,,Africa/Algiers
+2481700,AF,Africa,DZ,Algeria,19,Wilaya de Setif,Sétif,,Africa/Algiers
+2505329,AF,Africa,DZ,Algeria,6,Wilaya de Bejaia,Béjaïa,,Africa/Algiers
+2503701,AF,Africa,DZ,Algeria,34,Wilaya de Bordj Bou Arreridj,Bordj Bou Arreridj,,Africa/Algiers
+2500017,AF,Africa,DZ,Algeria,17,Wilaya de Djelfa,Djelfa,,Africa/Algiers
+2476897,AF,Africa,DZ,Algeria,14,Wilaya de Tiaret,Tiaret,,Africa/Algiers
+2505530,AF,Africa,DZ,Algeria,8,Wilaya de Bechar,Béchar,,Africa/Algiers
+2500889,AF,Africa,DZ,Algeria,16,Wilaya d' Alger,Dar el Beida,,Africa/Algiers
+2485926,AF,Africa,DZ,Algeria,31,Oran,Oran,,Africa/Algiers
+2482572,AF,Africa,DZ,Algeria,20,Wilaya de Saida,Saida,,Africa/Algiers
+2475687,AF,Africa,DZ,Algeria,13,Wilaya de Tlemcen,Tlemcen,,Africa/Algiers
+2487395,AF,Africa,DZ,Algeria,31,Oran,Misserghin,,Africa/Algiers
+2475744,AF,Africa,DZ,Algeria,15,Wilaya de Tizi Ouzou,Tizi Ouzou,,Africa/Algiers
+2503769,AF,Africa,DZ,Algeria,9,Wilaya de Blida,Blida,,Africa/Algiers
+2482908,AF,Africa,DZ,Algeria,16,Wilaya d' Alger,Rouiba,,Africa/Algiers
+2499061,AF,Africa,DZ,Algeria,42,Wilaya de Tipaza,Draria,,Africa/Algiers
+2503847,AF,Africa,DZ,Algeria,16,Wilaya d' Alger,Birkhadem,,Africa/Algiers
+976359,AF,Africa,ZA,South Africa,FS,Orange Free State,Middelburg,,Africa/Johannesburg
+942690,AF,Africa,ZA,South Africa,GP,Gauteng,Vrededorp,,Africa/Johannesburg
+965154,AF,Africa,ZA,South Africa,ZN,KwaZulu-Natal,Pinetown,,Africa/Johannesburg
+3369536,AF,Africa,ZA,South Africa,WC,Province of the Western Cape,Brackenfell,,Africa/Johannesburg
+1012075,AF,Africa,ZA,South Africa,GP,Gauteng,Dalview,,Africa/Johannesburg
+1001775,AF,Africa,ZA,South Africa,GP,Gauteng,Glen Austin,,Africa/Johannesburg
+970566,AF,Africa,ZA,South Africa,GP,Gauteng,Nigel,,Africa/Johannesburg
+1005125,AF,Africa,ZA,South Africa,MP,Mpumalanga,Ermelo,,Africa/Johannesburg
+1005040,AF,Africa,ZA,South Africa,ZN,KwaZulu-Natal,Eshowe,,Africa/Johannesburg
+1105773,AF,Africa,ZA,South Africa,GP,Gauteng,Garsfontein,,Africa/Johannesburg
+987297,AF,Africa,ZA,South Africa,FS,Orange Free State,Kranskop,,Africa/Johannesburg
+948468,AF,Africa,ZA,South Africa,ZN,KwaZulu-Natal,Tongaat,,Africa/Johannesburg
+962367,AF,Africa,ZA,South Africa,ZN,KwaZulu-Natal,Richards Bay,,Africa/Johannesburg
+939133,AF,Africa,ZA,South Africa,NW,Province of North West,Witfontein,,Africa/Johannesburg
+361291,AF,Africa,EG,Egypt,BA,Red Sea Governorate,Hurghada,,Africa/Cairo
+938457,AF,Africa,ZA,South Africa,NW,Province of North West,Wolmaransstad,,Africa/Johannesburg
+971421,AF,Africa,ZA,South Africa,ZN,KwaZulu-Natal,Newcastle,,Africa/Johannesburg
+3364208,AF,Africa,ZA,South Africa,WC,Province of the Western Cape,Melkbosstrand,,Africa/Johannesburg
+934069,AF,Africa,MU,Mauritius,PW,Plaines Wilhems District,Rose Hill,,Indian/Mauritius
+934515,AF,Africa,MU,Mauritius,PW,Plaines Wilhems District,Floreal,,Indian/Mauritius
+2553604,AF,Africa,MA,Morocco,CAS,Casablanca,Casablanca,,Africa/Casablanca
+2542997,AF,Africa,MA,Morocco,11,Marrakech-Tensift-Al Haouz,Marrakesh,,Africa/Casablanca
+2538475,AF,Africa,MA,Morocco,RAB,Rabat,Rabat,,Africa/Casablanca
+2537763,AF,Africa,MA,Morocco,7,Region de Rabat-Sale-Zemmour-Zaer,Salé,,Africa/Casablanca
+2542715,AF,Africa,MA,Morocco,MEK,Meknes,Meknes,,Africa/Casablanca
+2548885,AF,Africa,MA,Morocco,FES,Fes,Fes,,Africa/Casablanca
+2561668,AF,Africa,MA,Morocco,AGD,Agadir-Ida-ou-Tnan,Agadir,,Africa/Casablanca
+2544248,AF,Africa,MA,Morocco,KHO,Khouribga Province,Khouribga,,Africa/Casablanca
+2440485,AF,Africa,NE,Niger,8,Niamey,Niamey,,Africa/Niamey
+1005976,AF,Africa,ZA,South Africa,GP,Gauteng,Elarduspark,,Africa/Johannesburg
+2357048,AF,Africa,BF,Burkina Faso,KAD,Kadiogo Province,Ouagadougou,,Africa/Ouagadougou
+2362344,AF,Africa,BF,Burkina Faso,HOU,Province du Houet,Bobo-Dioulasso,,Africa/Ouagadougou
+2378080,AF,Africa,MR,Mauritania,,,,,Africa/Nouakchott
+2325330,AF,Africa,NG,Nigeria,IM,Imo State,Owerri,,Africa/Lagos
+2329863,AF,Africa,NG,Nigeria,OG,Ogun State,Mowe,,Africa/Lagos
+2529013,AF,Africa,MA,Morocco,SKH,Skhirate-Temara,Temara,,Africa/Casablanca
+2540483,AF,Africa,MA,Morocco,OUJ,Oujda-Angad,Oujda,,Africa/Casablanca
+2541479,AF,Africa,MA,Morocco,NAD,Nador,Nador,,Africa/Casablanca
+2550985,AF,Africa,MA,Morocco,4,Oriental,Driouch,,Africa/Casablanca
+2537545,AF,Africa,MA,Morocco,SEF,Sefrou,Sefrou,,Africa/Casablanca
+2544571,AF,Africa,MA,Morocco,KEN,Kenitra Province,Kenitra,,Africa/Casablanca
+2527915,AF,Africa,MA,Morocco,13,Region de Souss-Massa-Draa,Tinghir,,Africa/Casablanca
+2558470,AF,Africa,MA,Morocco,KHE,Khemisset,Khemisset,,Africa/Casablanca
+2530241,AF,Africa,MA,Morocco,14,Guelmim-Es Semara,Tan-Tan,,Africa/Casablanca
+2542051,AF,Africa,MA,Morocco,MOH,Mohammedia,Mohammedia,,Africa/Casablanca
+2550419,AF,Africa,MA,Morocco,9,Chaouia-Ouardigha,El Gara,,Africa/Casablanca
+2537881,AF,Africa,MA,Morocco,SAF,Safi,Safi,,Africa/Casablanca
+2556018,AF,Africa,MA,Morocco,11,Marrakech-Tensift-Al Haouz,Benguerir,,Africa/Casablanca
+2539134,AF,Africa,MA,Morocco,13,Region de Souss-Massa-Draa,Oulad Teima,,Africa/Casablanca
+2527089,AF,Africa,MA,Morocco,TIZ,Tiznit,Tiznit,,Africa/Casablanca
+2596132,AF,Africa,MA,Morocco,12,Tadla-Azilal,Azrou,,Africa/Casablanca
+2550252,AF,Africa,MA,Morocco,HAJ,El-Hajeb,El Hajeb,,Africa/Casablanca
+2543549,AF,Africa,MA,Morocco,LAR,Larache,Larache,,Africa/Casablanca
+2528910,AF,Africa,MA,Morocco,1,Region de Tanger-Tetouan,Tétouan,,Africa/Casablanca
+2555467,AF,Africa,MA,Morocco,BER,Berkane-Taourirt,Berkane,,Africa/Casablanca
+2531480,AF,Africa,MA,Morocco,3,Taza-Al Hoceima-Taounate,Tahala,,Africa/Casablanca
+2532575,AF,Africa,MA,Morocco,11,Marrakech-Tensift-Al Haouz,Smara,,Africa/Casablanca
+995078,AF,Africa,ZA,South Africa,EC,Province of Eastern Cape,Humewood,,Africa/Johannesburg
+1016698,AF,Africa,ZA,South Africa,FS,Orange Free State,Bothaville,,Africa/Johannesburg
+1019704,AF,Africa,ZA,South Africa,FS,Orange Free State,Bethlehem,,Africa/Johannesburg
+3362482,AF,Africa,ZA,South Africa,WC,Province of the Western Cape,Riebeek West,,Africa/Johannesburg
+945995,AF,Africa,ZA,South Africa,ZN,KwaZulu-Natal,Underberg,,Africa/Johannesburg
+3360456,AF,Africa,ZA,South Africa,WC,Province of the Western Cape,Tokai,,Africa/Johannesburg
+3366939,AF,Africa,ZA,South Africa,WC,Province of the Western Cape,Heathfield,,Africa/Johannesburg
+981294,AF,Africa,ZA,South Africa,EC,Province of Eastern Cape,Lusikisiki,,Africa/Johannesburg
+963528,AF,Africa,ZA,South Africa,ZN,KwaZulu-Natal,Queensburgh,,Africa/Johannesburg
+966194,AF,Africa,ZA,South Africa,GP,Gauteng,Parkmore,,Africa/Johannesburg
+976764,AF,Africa,ZA,South Africa,GP,Gauteng,Meyerton,,Africa/Johannesburg
+959148,AF,Africa,ZA,South Africa,GP,Gauteng,Rosettenville,,Africa/Johannesburg
+995335,AF,Africa,ZA,South Africa,GP,Gauteng,Houghton Estate,,Africa/Johannesburg
+1015304,AF,Africa,ZA,South Africa,GP,Gauteng,Bryanston,,Africa/Johannesburg
+1014107,AF,Africa,ZA,South Africa,GP,Gauteng,Capital Park,,Africa/Johannesburg
+3363982,AF,Africa,ZA,South Africa,WC,Province of the Western Cape,Montana,,Africa/Johannesburg
+951360,AF,Africa,ZA,South Africa,GP,Gauteng,Sunnyside,,Africa/Johannesburg
+949880,AF,Africa,ZA,South Africa,GP,Gauteng,Tembisa,,Africa/Johannesburg
+1014073,AF,Africa,ZA,South Africa,GP,Gauteng,Carletonville,,Africa/Johannesburg
+2566680,AF,Africa,NG,Nigeria,LA,Lagos,Ojota,,Africa/Lagos
+2322733,AF,Africa,NG,Nigeria,LA,Lagos,Suru-Lere,,Africa/Lagos
+8030238,AF,Africa,ZA,South Africa,GP,Gauteng,Weltevreedenpark,,Africa/Johannesburg
+2399697,AF,Africa,GA,Gabon,1,Estuaire,Libreville,,Africa/Libreville
+1020590,AF,Africa,ZA,South Africa,GP,Gauteng,Bedfordview,,Africa/Johannesburg
+949683,AF,Africa,ZA,South Africa,LP,Limpopo,Thabazimbi,,Africa/Johannesburg
+991632,AF,Africa,ZA,South Africa,GP,Gauteng,Katlehong,,Africa/Johannesburg
+964349,AF,Africa,ZA,South Africa,NW,Province of North West,Potchefstroom,,Africa/Johannesburg
+999964,AF,Africa,ZA,South Africa,MP,Mpumalanga,Groblersdal,,Africa/Johannesburg
+996195,AF,Africa,ZA,South Africa,LP,Limpopo,Hoedspruit,,Africa/Johannesburg
+996409,AF,Africa,ZA,South Africa,ZN,KwaZulu-Natal,Himeville,,Africa/Johannesburg
+1012080,AF,Africa,ZA,South Africa,ZN,KwaZulu-Natal,Dalton,,Africa/Johannesburg
+944120,AF,Africa,ZA,South Africa,ZN,KwaZulu-Natal,Verulam,,Africa/Johannesburg
+986846,AF,Africa,ZA,South Africa,FS,Orange Free State,Kroonstad,,Africa/Johannesburg
+985015,AF,Africa,ZA,South Africa,FS,Orange Free State,Ladybrand,,Africa/Johannesburg
+1002145,AF,Africa,ZA,South Africa,WC,Province of the Western Cape,George,,Africa/Johannesburg
+7730334,AF,Africa,ZA,South Africa,LP,Limpopo,Lephalale,,Africa/Johannesburg
+940909,AF,Africa,ZA,South Africa,FS,Orange Free State,Welkom,,Africa/Johannesburg
+1005753,AF,Africa,ZA,South Africa,MP,Mpumalanga,Eloff,,Africa/Johannesburg
+3371351,AF,Africa,,Namibia,KH,Khomas,Olympia,,Africa/Windhoek
+3353811,AF,Africa,,Namibia,OD,Otjozondjupa,Otjiwarongo,,Africa/Windhoek
+3359638,AF,Africa,,Namibia,ER,Erongo,Walvis Bay,,Africa/Windhoek
+3354540,AF,Africa,,Namibia,ER,Erongo,Omaruru,,Africa/Windhoek
+3352461,AF,Africa,,Namibia,ER,Erongo,Usakos,,Africa/Windhoek
+3354021,AF,Africa,,Namibia,ON,Oshana,Oshakati,,Africa/Windhoek
+3357682,AF,Africa,,Namibia,OW,Ohangwena,Engela,,Africa/Windhoek
+3352593,AF,Africa,,Namibia,OT,Oshikoto,Tsumeb,,Africa/Windhoek
+3357114,AF,Africa,,Namibia,OD,Otjozondjupa,Grootfontein,,Africa/Windhoek
+3356264,AF,Africa,,Namibia,KA,Karas,Keetmanshoop,,Africa/Windhoek
+3354071,AF,Africa,,Namibia,KA,Karas,Oranjemund,,Africa/Windhoek
+3359041,AF,Africa,ZA,South Africa,WC,Province of the Western Cape,Worcester,,Africa/Johannesburg
+994557,AF,Africa,ZA,South Africa,GP,Gauteng,Irene,,Africa/Johannesburg
+2351275,AF,Africa,NG,Nigeria,,,Ajuwon,,Africa/Lagos
+2318527,AF,Africa,NG,Nigeria,LA,Lagos,Yaba,,Africa/Lagos
+2346812,AF,Africa,NG,Nigeria,RI,Rivers State,Bonny,,Africa/Lagos
+1012585,AF,Africa,ZA,South Africa,GP,Gauteng,Craighall,,Africa/Johannesburg
+3366314,AF,Africa,ZA,South Africa,WC,Province of the Western Cape,Kalkbaai,,Africa/Johannesburg
+1070940,AF,Africa,MG,Madagascar,,Analamanga Region,Antananarivo,,Indian/Antananarivo
+1062663,AF,Africa,MG,Madagascar,,Boeny Region,Mahajanga,,Indian/Antananarivo
+2377450,AF,Africa,MR,Mauritania,NKC,District de Nouakchott,Nouakchott,,Africa/Nouakchott
+223816,AF,Africa,DJ,Djibouti,,,,,Africa/Djibouti
+2352947,AF,Africa,NG,Nigeria,OG,Ogun State,Abeokuta,,Africa/Lagos
+894701,AF,Africa,ZW,Zimbabwe,BU,Bulawayo,Bulawayo,,Africa/Harare
+2294700,AF,Africa,GH,Ghana,AA,Greater Accra Region,Tema,,Africa/Accra
+927967,AF,Africa,MW,Malawi,LI,Lilongwe District,Lilongwe,,Africa/Blantyre
+1013168,AF,Africa,ZA,South Africa,EC,Province of Eastern Cape,Coega,,Africa/Johannesburg
+181032,AF,Africa,KE,Kenya,,Kiambu District,Ruiru,,Africa/Nairobi
+932505,AF,Africa,LS,Lesotho,A,Maseru,Maseru,,Africa/Maseru
+7627570,AF,Africa,ZA,South Africa,GP,Gauteng,Waverley,,Africa/Johannesburg
+994927,AF,Africa,ZA,South Africa,ZN,KwaZulu-Natal,Illovo Beach,,Africa/Johannesburg
+921929,AF,Africa,KM,Comoros,,,,,Indian/Comoro
+1007514,AF,Africa,ZA,South Africa,LP,Limpopo,Duiwelskloof,,Africa/Johannesburg
+2498611,AF,Africa,DZ,Algeria,2,Wilaya de Chlef,Chlef,,Africa/Algiers
+2300364,AF,Africa,GH,Ghana,TV,Volta Region,Home,,Africa/Accra
+2234974,AF,Africa,CM,Cameroon,NW,North-West Province,Bamenda,,Africa/Douala
+2233410,AF,Africa,CM,Cameroon,SW,South-West Province,Buea,,Africa/Douala
+2317765,AF,Africa,NG,Nigeria,KD,Kaduna State,Zaria,,Africa/Lagos
+934985,AF,Africa,SZ,Swaziland,HH,Hhohho District,Mbabane,,Africa/Mbabane
+2298423,AF,Africa,GH,Ghana,AA,Greater Accra Region,Legon,,Africa/Accra
+187506,AF,Africa,KE,Kenya,,Kisumu,Maseno,,Africa/Nairobi
+2231320,AF,Africa,CM,Cameroon,NO,North Province,Garoua,,Africa/Douala
+2350841,AF,Africa,NG,Nigeria,ON,Ondo State,Akure,,Africa/Lagos
+2346229,AF,Africa,NG,Nigeria,CR,Cross River State,Calabar,,Africa/Lagos
+191245,AF,Africa,KE,Kenya,,Kisumu,Kisumu,,Africa/Nairobi
+186301,AF,Africa,KE,Kenya,,Mombasa District,Mombasa,,Africa/Nairobi
+3368061,AF,Africa,ZA,South Africa,WC,Province of the Western Cape,Elgin,,Africa/Johannesburg
+1055429,AF,Africa,MG,Madagascar,,Atsimo-Andrefana Region,Toliara,,Indian/Antananarivo
+2365267,AF,Africa,TG,Togo,M,Maritime,Lomé,,Africa/Lome
+7506857,AF,Africa,ZA,South Africa,WC,Province of the Western Cape,Newlands,,Africa/Johannesburg
+7289729,AF,Africa,ZA,South Africa,FS,Orange Free State,Constantia,,Africa/Johannesburg
+366122,AF,Africa,SD,Sudan,DN,Northern Darfur,Thabit,,Africa/Khartoum
+233508,AF,Africa,UG,Uganda,113,Wakiso District,Entebbe,,Africa/Kampala
+3351663,AF,Africa,AO,Angola,BGU,Benguela,Benguela,,Africa/Luanda
+2298890,AF,Africa,GH,Ghana,AH,Ashanti Region,Kumasi,,Africa/Accra
+2294915,AF,Africa,GH,Ghana,WP,Western Region,Takoradi,,Africa/Accra
+2347625,AF,Africa,NG,Nigeria,LA,Lagos,Bariga,,Africa/Lagos
+2566657,AF,Africa,NG,Nigeria,LA,Lagos,Orile Oshodi,,Africa/Lagos
+2327384,AF,Africa,NG,Nigeria,LA,Lagos,Ojo,,Africa/Lagos
+954013,AF,Africa,ZA,South Africa,GP,Gauteng,Soshanguve,,Africa/Johannesburg
+957811,AF,Africa,ZA,South Africa,GP,Gauteng,Sandown,,Africa/Johannesburg
+935619,AF,Africa,RE,Réunion,,,Le Petit Tampon,,Indian/Reunion
+935221,AF,Africa,RE,Réunion,,,Saint-Paul,,Indian/Reunion
+936081,AF,Africa,RE,Réunion,,,Bois de Nefles,,Indian/Reunion
+935264,AF,Africa,RE,Réunion,,,Saint-Denis,,Indian/Reunion
+935214,AF,Africa,RE,Réunion,,,Saint-Piorre,,Indian/Reunion
+935346,AF,Africa,RE,Réunion,,,Ravine des Cabris,,Indian/Reunion
+2243940,AF,Africa,SN,Senegal,ZG,Ziguinchor,Ziguinchor,,Africa/Dakar
+934995,AF,Africa,SZ,Swaziland,MA,Manzini District,Manzini,,Africa/Mbabane
+934989,AF,Africa,SZ,Swaziland,,,Matsapha,,Africa/Mbabane
+922704,AF,Africa,CD,Congo,KA,Katanga Province,Lubumbashi,,Africa/Lubumbashi
+995202,AF,Africa,ZA,South Africa,ZN,KwaZulu-Natal,Howick,,Africa/Johannesburg
+3354247,AF,Africa,,Namibia,ON,Oshana,Ondangwa,,Africa/Windhoek
+3354147,AF,Africa,,Namibia,ON,Oshana,Ongwediva,,Africa/Windhoek
+884979,AF,Africa,ZW,Zimbabwe,MA,Manicaland,Mutare,,Africa/Harare
+2325590,AF,Africa,NG,Nigeria,OS,Osun State,Osogbo,,Africa/Lagos
+2343641,AF,Africa,NG,Nigeria,ED,Edo,Ekpoma,,Africa/Lagos
+192126,AF,Africa,KE,Kenya,,Kiambu District,Kikuyu,,Africa/Nairobi
+1052373,AF,Africa,MZ,Mozambique,S,Sofala Province,Beira,,Africa/Maputo
+349114,AF,Africa,EG,Egypt,DK,Muhafazat ad Daqahliyah,Shirbin,,Africa/Cairo
+2327932,AF,Africa,NG,Nigeria,RI,Rivers State,Odau,,Africa/Lagos
+7859064,AF,Africa,AO,Angola,CUS,Kwanza Sul,Cacole,,Africa/Luanda
+3347939,AF,Africa,AO,Angola,BGU,Benguela,Lobito,,Africa/Luanda
+1012413,AF,Africa,ZA,South Africa,GP,Gauteng,Cullinan,,Africa/Johannesburg
+2318044,AF,Africa,NG,Nigeria,AD,Adamawa,Yola,,Africa/Lagos
+2413876,AF,Africa,GM,Gambia,B,City of Banjul,Banjul,,Africa/Banjul
+2464461,AF,Africa,TN,Tunisia,,,,,Africa/Tunis
+2464470,AF,Africa,TN,Tunisia,11,Gouvernorat de Tunis,Tunis,,Africa/Tunis
+2464915,AF,Africa,TN,Tunisia,51,Gouvernorat de Sousse,Sousse,,Africa/Tunis
+2473247,AF,Africa,TN,Tunisia,12,Gouvernorat de l' Ariana,Ariana,,Africa/Tunis
+2468353,AF,Africa,TN,Tunisia,71,Gafsa Governorate,Gafsa,,Africa/Tunis
+2473493,AF,Africa,TN,Tunisia,52,Gouvernorat de Monastir,Monastir,,Africa/Tunis
+359280,AF,Africa,EG,Egypt,KB,Muhafazat al Qalyubiyah,Banha,,Africa/Cairo
+360502,AF,Africa,EG,Egypt,LX,Muhafazat al Uqsur,Luxor,,Africa/Cairo
+988886,AF,Africa,ZA,South Africa,ZN,KwaZulu-Natal,Kloof,,Africa/Johannesburg
+981158,AF,Africa,ZA,South Africa,MP,Mpumalanga,Lydenburg,,Africa/Johannesburg
+1011031,AF,Africa,ZA,South Africa,MP,Mpumalanga,Delmas,,Africa/Johannesburg
+938694,AF,Africa,ZA,South Africa,MP,Mpumalanga,White River,,Africa/Johannesburg
+2214846,AF,Africa,LY,Libya,MI,Sha`biyat Misratah,Misratah,,Africa/Tripoli
+216281,AF,Africa,CD,Congo,NK,Nord Kivu,Goma,,Africa/Lubumbashi
+960469,AF,Africa,ZA,South Africa,GP,Gauteng,Roodekrans,,Africa/Johannesburg
+3369098,AF,Africa,ZA,South Africa,WC,Province of the Western Cape,Claremont,,Africa/Johannesburg
+949049,AF,Africa,ZA,South Africa,GP,Gauteng,Three Rivers,,Africa/Johannesburg
+973709,AF,Africa,ZA,South Africa,WC,Province of the Western Cape,Mossel Bay,,Africa/Johannesburg
+991310,AF,Africa,ZA,South Africa,FS,Orange Free State,Kestell,,Africa/Johannesburg
+1001875,AF,Africa,ZA,South Africa,ZN,KwaZulu-Natal,Gillitts,,Africa/Johannesburg
+3362349,AF,Africa,ZA,South Africa,WC,Province of the Western Cape,Robertson,,Africa/Johannesburg
+2553751,AF,Africa,MA,Morocco,BES,Benslimane,Bouznika,,Africa/Casablanca
+2528659,AF,Africa,MA,Morocco,KHE,Khemisset,Tiflet,,Africa/Casablanca
+2529316,AF,Africa,MA,Morocco,1,Region de Tanger-Tetouan,Taza,,Africa/Casablanca
+2542987,AF,Africa,MA,Morocco,TET,Tetouan,Martil,,Africa/Casablanca
+2537406,AF,Africa,MA,Morocco,SET,Settat Province,Settat,,Africa/Casablanca
+2550078,AF,Africa,MA,Morocco,JDI,El-Jadida,El Jadida,,Africa/Casablanca
+2555745,AF,Africa,MA,Morocco,BEM,Beni-Mellal,Beni Mellal,,Africa/Casablanca
+2540689,AF,Africa,MA,Morocco,KHO,Khouribga Province,Oued Zem,,Africa/Casablanca
+2556996,AF,Africa,MA,Morocco,14,Guelmim-Es Semara,Assa,,Africa/Casablanca
+2556272,AF,Africa,MA,Morocco,SET,Settat Province,Berrechid,,Africa/Casablanca
+2208485,AF,Africa,LY,Libya,MI,Sha`biyat Misratah,Zliten,,Africa/Tripoli
+88319,AF,Africa,LY,Libya,BA,Sha`biyat Banghazi,Benghazi,,Africa/Tripoli
+338010,AF,Africa,ER,Eritrea,,,,,Africa/Asmara
+3370751,AF,Africa,SH,Saint Helena,,,,,Atlantic/St_Helena
+934881,AF,Africa,SZ,Swaziland,HH,Hhohho District,Piggs Peak,,Africa/Mbabane
+2273638,AF,Africa,LR,Liberia,,River Gee County,Fish Town,,Africa/Monrovia
+2243914,AF,Africa,AO,Angola,BGO,Bengo Province,Ambriz,,Africa/Luanda
+1083724,AF,Africa,MG,Madagascar,,Diana Region,Ambanja,,Indian/Antananarivo
+2374311,AF,Africa,GW,Guinea-Bissau,,,Cacheu,,Africa/Bissau
+932035,AF,Africa,LS,Lesotho,D,Berea,Teyateyaneng,,Africa/Maseru
+2451185,AF,Africa,ML,Mali,3,Sikasso,Sikasso,,Africa/Bamako
+2428231,AF,Africa,TD,Chad,HL,Hadjer-Lamis,Massaguet,,Africa/Ndjamena
+2317418,AF,Africa,CD,Congo,BC,Province du Bas-Congo,Banana,,Africa/Kinshasa
+2389853,AF,Africa,CF,Central African Republic,BGF,Commune de Bangui,Bangui,,Africa/Bangui
+921753,AF,Africa,KM,Comoros,A,Ndzuwani,Moutsamoudou,,Indian/Comoro
+2410972,AF,Africa,ST,São Tomé and Príncipe,S,São Tomé Island,Neves,,Africa/Sao_Tome
+2392601,AF,Africa,BJ,Benin,AK,Atakora Department,Natitingou,,Africa/Porto-Novo
+2309527,AF,Africa,GQ,Equatorial Guinea,,,Malabo,,Africa/Malabo
+2396518,AF,Africa,GA,Gabon,8,Province de l' Ogooue-Maritime,Port-Gentil,,Africa/Libreville
+198629,AF,Africa,KE,Kenya,,Uasin Gishu,Eldoret,,Africa/Nairobi
+2338849,AF,Africa,NG,Nigeria,LA,Lagos,Iganmu,,Africa/Lagos
+2330028,AF,Africa,NG,Nigeria,OS,Osun State,Modakeke,,Africa/Lagos
+2212775,AF,Africa,LY,Libya,SB,Sha`biyat Sabha,Sabha,,Africa/Tripoli
+2274895,AF,Africa,LR,Liberia,MO,Montserrado County,Monrovia,,Africa/Monrovia
+901344,AF,Africa,ZM,Zambia,8,Copperbelt,Ndola,,Africa/Lusaka
+888710,AF,Africa,ZW,Zimbabwe,MI,Midlands Province,Kwekwe,,Africa/Harare
+935257,AF,Africa,RE,Réunion,,,Sainte-Clotilde,,Indian/Reunion
+935616,AF,Africa,RE,Réunion,,,Le Port,,Indian/Reunion
+935608,AF,Africa,RE,Réunion,,,Les Avirons,,Indian/Reunion
+935248,AF,Africa,RE,Réunion,,,Sainte-Suzanne,,Indian/Reunion
+2399284,AF,Africa,GA,Gabon,4,Province de la Ngounie,Mamagnia,,Africa/Libreville
+2335727,AF,Africa,NG,Nigeria,KD,Kaduna State,Kaduna,,Africa/Lagos
+2343279,AF,Africa,NG,Nigeria,EN,Enugu State,Enugu,,Africa/Lagos
+2337639,AF,Africa,NG,Nigeria,KW,Kwara State,Ilorin,,Africa/Lagos
+153220,AF,Africa,TZ,Tanzania,16,Morogoro,Morogoro,,Africa/Dar_es_Salaam
+2422465,AF,Africa,GN,Guinea,,,Conakry,,Africa/Conakry
+2420985,AF,Africa,GN,Guinea,FO,Prefecture de Forecariah,Forécariah,,Africa/Conakry
+2399888,AF,Africa,GA,Gabon,3,Province du Moyen-Ogooue,Lambaréné,,Africa/Libreville
+245785,AF,Africa,TD,Chad,OD,Ouaddai Region,Abéché,,Africa/Ndjamena
+2335953,AF,Africa,NG,Nigeria,PL,Plateau State,Jos,,Africa/Lagos
+2319133,AF,Africa,NG,Nigeria,DE,Delta,Warri,,Africa/Lagos
+2416969,AF,Africa,GN,Guinea,NZ,Nzerekore Prefecture,Nzérékoré,,Africa/Conakry
+2349963,AF,Africa,NG,Nigeria,,,Anambra,,Africa/Lagos
+2298264,AF,Africa,GH,Ghana,AH,Ashanti Region,Mampong,,Africa/Accra
+7098427,AF,Africa,NG,Nigeria,DE,Delta,Abraka,,Africa/Lagos
+2418362,AF,Africa,GN,Guinea,LA,Labe Prefecture,Labé,,Africa/Conakry
+2419992,AF,Africa,GN,Guinea,KA,Kankan Prefecture,Kankan,,Africa/Conakry
+2420056,AF,Africa,GN,Guinea,BK,Boke Prefecture,Port Kamsar,,Africa/Conakry
+2422924,AF,Africa,GN,Guinea,BK,Boke Prefecture,Boké,,Africa/Conakry
+2352804,AF,Africa,NG,Nigeria,DE,Delta,Abraka,,Africa/Lagos
+2352778,AF,Africa,NG,Nigeria,FC,Federal Capital Territory,Abuja,,Africa/Lagos
+2353099,AF,Africa,NG,Nigeria,EB,Ebonyi State,Abakaliki,,Africa/Lagos
+2229752,AF,Africa,CM,Cameroon,SW,South-West Province,Kumba,,Africa/Douala
+2260535,AF,Africa,CG,Republic of the Congo,BZV,Commune de Brazzaville,Brazzaville,,Africa/Brazzaville
+2352379,AF,Africa,NG,Nigeria,EK,Ekiti State,Ado-Ekiti,,Africa/Lagos
+2417834,AF,Africa,GN,Guinea,MM,Mamou Prefecture,Mamou,,Africa/Conakry
+908655,AF,Africa,ZM,Zambia,7,Southern Province,Macha,,Africa/Lusaka
+2422442,AF,Africa,GN,Guinea,DB,Dabola,Dabola,,Africa/Conakry
+2352776,AF,Africa,NG,Nigeria,FC,Federal Capital Territory,,,Africa/Lagos
+2336589,AF,Africa,NG,Nigeria,TA,Taraba State,Jalingo,,Africa/Lagos
+2338900,AF,Africa,NG,Nigeria,,,Ife,,Africa/Lagos
+149606,AF,Africa,TZ,Tanzania,25,Tanga,Tanga,,Africa/Dar_es_Salaam
+2418092,AF,Africa,GN,Guinea,LO,Lola,Lola,,Africa/Conakry
+2416085,AF,Africa,GN,Guinea,BK,Boke Prefecture,Sangaredi,,Africa/Conakry
+2400547,AF,Africa,GA,Gabon,8,Province de l' Ogooue-Maritime,Gamba,,Africa/Libreville
+2346317,AF,Africa,NG,Nigeria,DE,Delta,Burutu,,Africa/Lagos
+2331939,AF,Africa,NG,Nigeria,KO,Kogi State,Lokoja,,Africa/Lagos
+187028,AF,Africa,KE,Kenya,,Homa Bay District,Mbita,,Africa/Nairobi
+2235194,AF,Africa,CM,Cameroon,CE,Centre,Bafia,,Africa/Douala
+2274465,AF,Africa,LR,Liberia,MO,Montserrado County,Paynesville,,Africa/Monrovia
+2338999,AF,Africa,NG,Nigeria,RI,Rivers State,Ido,,Africa/Lagos
+57289,AF,Africa,SO,Somalia,WO,Woqooyi Galbeed,Hargeysa,,Africa/Mogadishu
+2595344,AF,Africa,NG,Nigeria,BY,Bayelsa State,,,Africa/Lagos
+2347059,AF,Africa,NG,Nigeria,KE,Kebbi State,Birnin Kebbi,,Africa/Lagos
+1016674,AF,Africa,ZA,South Africa,MP,Mpumalanga,Botshabelo,,Africa/Johannesburg
+2330100,AF,Africa,NG,Nigeria,NI,Niger State,Minna,,Africa/Lagos
+2420178,AF,Africa,GN,Guinea,GA,Gaoual Prefecture,Kalia,,Africa/Conakry
+915086,AF,Africa,ZM,Zambia,7,Southern Province,Kalomo,,Africa/Lusaka
+2302357,AF,Africa,GH,Ghana,CP,Central Region,Cape Coast,,Africa/Accra
+2328151,AF,Africa,NG,Nigeria,CR,Cross River State,Obudu,,Africa/Lagos
+935231,AF,Africa,RE,Réunion,,,Saint-Gilles-les Bains,,Indian/Reunion
+935146,AF,Africa,RE,Réunion,,,Trois-Bassins,,Indian/Reunion
+2566676,AF,Africa,NG,Nigeria,LA,Lagos,Alimosho,,Africa/Lagos
+2325276,AF,Africa,NG,Nigeria,LA,Lagos,Oworonsoki,,Africa/Lagos
+353229,AF,Africa,EG,Egypt,,,Al `Ashir min Ramadan,,Africa/Cairo
+2337114,AF,Africa,NG,Nigeria,LA,Lagos,Isolo,,Africa/Lagos
+2353151,AF,Africa,NG,Nigeria,AB,Abia State,Aba,,Africa/Lagos
+2218970,AF,Africa,LY,Libya,ZA,Sha`biyat az Zawiyah,Az Zawiyah,,Africa/Tripoli
+935255,AF,Africa,RE,Réunion,,,Sainte-Marie,,Indian/Reunion
+935684,AF,Africa,RE,Réunion,,,La Riviere des Pluies,,Indian/Reunion
+1024031,AF,Africa,YT,Mayotte,,,,,Indian/Mayotte
+935681,AF,Africa,RE,Réunion,,,La Saline,,Indian/Reunion
+935708,AF,Africa,RE,Réunion,,,La Montagne,,Indian/Reunion
+935416,AF,Africa,RE,Réunion,,,Petite-Ile,,Indian/Reunion
+935267,AF,Africa,RE,Réunion,,,Saint-Benoit,,Indian/Reunion
+935223,AF,Africa,RE,Réunion,,,Saint-Louis,,Indian/Reunion
+935916,AF,Africa,RE,Réunion,,,Entre-Deux,,Indian/Reunion
+935386,AF,Africa,RE,Réunion,,,Piton Sainte-Rose,,Indian/Reunion
+2561737,AF,Africa,MA,Morocco,AZI,Azilal Province,Afourer,,Africa/Casablanca
+179330,AF,Africa,KE,Kenya,110,Nairobi Province,Thika,,Africa/Nairobi
+2236568,AF,Africa,AO,Angola,UIG,Provincia do Uige,Uíge,,Africa/Luanda
+956098,AF,Africa,ZA,South Africa,ZN,KwaZulu-Natal,Shelly Beach,,Africa/Johannesburg
+988698,AF,Africa,ZA,South Africa,WC,Province of the Western Cape,Knysna,,Africa/Johannesburg
+990873,AF,Africa,ZA,South Africa,ZN,KwaZulu-Natal,Kingsmead,,Africa/Johannesburg
+964432,AF,Africa,ZA,South Africa,EC,Province of Eastern Cape,Port Alfred,,Africa/Johannesburg
+956767,AF,Africa,ZA,South Africa,MP,Mpumalanga,Secunda,,Africa/Johannesburg
+996921,AF,Africa,ZA,South Africa,GP,Gauteng,Henley on Klip,,Africa/Johannesburg
+1003763,AF,Africa,ZA,South Africa,FS,Orange Free State,Frankfort,,Africa/Johannesburg
+968477,AF,Africa,ZA,South Africa,FS,Orange Free State,Odendaalsrus,,Africa/Johannesburg
+1015250,AF,Africa,ZA,South Africa,EC,Province of Eastern Cape,Buffalo,,Africa/Johannesburg
+941939,AF,Africa,ZA,South Africa,ZN,KwaZulu-Natal,Warner Beach,,Africa/Johannesburg
+946128,AF,Africa,ZA,South Africa,ZN,KwaZulu-Natal,Umkomaas,,Africa/Johannesburg
+971387,AF,Africa,ZA,South Africa,ZN,KwaZulu-Natal,New Germany,,Africa/Johannesburg
+953781,AF,Africa,ZA,South Africa,GP,Gauteng,Soweto,,Africa/Johannesburg
+958441,AF,Africa,ZA,South Africa,MP,Mpumalanga,Sabie,,Africa/Johannesburg
+982899,AF,Africa,ZA,South Africa,NW,Province of North West,Lichtenburg,,Africa/Johannesburg
+946973,AF,Africa,ZA,South Africa,LP,Limpopo,Tzaneen,,Africa/Johannesburg
+3362671,AF,Africa,ZA,South Africa,WC,Province of the Western Cape,Pringle Bay,,Africa/Johannesburg
+965528,AF,Africa,ZA,South Africa,LP,Limpopo,Phalaborwa,,Africa/Johannesburg
+967106,AF,Africa,ZA,South Africa,WC,Province of the Western Cape,Oudtshoorn,,Africa/Johannesburg
+984998,AF,Africa,ZA,South Africa,ZN,KwaZulu-Natal,Ladysmith,,Africa/Johannesburg
+972787,AF,Africa,ZA,South Africa,ZN,KwaZulu-Natal,Mtunzini,,Africa/Johannesburg
+996419,AF,Africa,ZA,South Africa,ZN,KwaZulu-Natal,Hilton,,Africa/Johannesburg
+997255,AF,Africa,ZA,South Africa,MP,Mpumalanga,Hazyview,,Africa/Johannesburg
+990825,AF,Africa,ZA,South Africa,MP,Mpumalanga,Kinross,,Africa/Johannesburg
+3362485,AF,Africa,ZA,South Africa,WC,Province of the Western Cape,Riebeek-Kasteel,,Africa/Johannesburg
+3364244,AF,Africa,ZA,South Africa,WC,Province of the Western Cape,Meadowridge,,Africa/Johannesburg
+964712,AF,Africa,ZA,South Africa,WC,Province of the Western Cape,Plettenberg Bay,,Africa/Johannesburg
+942069,AF,Africa,ZA,South Africa,EC,Province of Eastern Cape,Walmer Heights,,Africa/Johannesburg
+3364059,AF,Africa,ZA,South Africa,WC,Province of the Western Cape,Milnerton,,Africa/Johannesburg
+3363222,AF,Africa,ZA,South Africa,WC,Province of the Western Cape,Ottery,,Africa/Johannesburg
+3361934,AF,Africa,ZA,South Africa,WC,Province of the Western Cape,Saldanha,,Africa/Johannesburg
+3359510,AF,Africa,ZA,South Africa,WC,Province of the Western Cape,Wellington,,Africa/Johannesburg
+960360,AF,Africa,ZA,South Africa,FS,Orange Free State,Roodepoort,,Africa/Johannesburg
+968442,AF,Africa,ZA,South Africa,MP,Mpumalanga,Ogies,,Africa/Johannesburg
+3366945,AF,Africa,ZA,South Africa,WC,Province of the Western Cape,Hawston,,Africa/Johannesburg
+949224,AF,Africa,ZA,South Africa,LP,Limpopo,Thohoyandou,,Africa/Johannesburg
+3363018,AF,Africa,ZA,South Africa,WC,Province of the Western Cape,Parow,,Africa/Johannesburg
+980595,AF,Africa,ZA,South Africa,NW,Province of North West,Mafikeng,,Africa/Johannesburg
+949282,AF,Africa,ZA,South Africa,FS,Orange Free State,Theunissen,,Africa/Johannesburg
+996918,AF,Africa,ZA,South Africa,FS,Orange Free State,Hennenman,,Africa/Johannesburg
+946058,AF,Africa,ZA,South Africa,EC,Province of Eastern Cape,Umtata,,Africa/Johannesburg
+956878,AF,Africa,ZA,South Africa,ZN,KwaZulu-Natal,Scottburgh,,Africa/Johannesburg
+3364346,AF,Africa,ZA,South Africa,WC,Province of the Western Cape,Malmesbury,,Africa/Johannesburg
+964315,AF,Africa,ZA,South Africa,LP,Limpopo,Mokopane,,Africa/Johannesburg
+956117,AF,Africa,ZA,South Africa,ZN,KwaZulu-Natal,Sheffield Beach,,Africa/Johannesburg
+994858,AF,Africa,ZA,South Africa,GP,Gauteng,Inanda,,Africa/Johannesburg
+1000937,AF,Africa,ZA,South Africa,EC,Province of Eastern Cape,Gonubie,,Africa/Johannesburg
+976885,AF,Africa,ZA,South Africa,LP,Limpopo,Messina,,Africa/Johannesburg
+1023672,AF,Africa,ZA,South Africa,EC,Province of Eastern Cape,Addo,,Africa/Johannesburg
+1021086,AF,Africa,ZA,South Africa,MP,Mpumalanga,Barberton,,Africa/Johannesburg
+3369179,AF,Africa,ZA,South Africa,WC,Province of the Western Cape,Caledon,,Africa/Johannesburg
+945804,AF,Africa,ZA,South Africa,EC,Province of Eastern Cape,Uvongo,,Africa/Johannesburg
+3367559,AF,Africa,ZA,South Africa,WC,Province of the Western Cape,Gordon's Bay,,Africa/Johannesburg
+940296,AF,Africa,ZA,South Africa,ZN,KwaZulu-Natal,Westville,,Africa/Johannesburg
+1010962,AF,Africa,ZA,South Africa,FS,Orange Free State,Deneysville,,Africa/Johannesburg
+975436,AF,Africa,ZA,South Africa,NW,Province of North West,Mmabatho,,Africa/Johannesburg
+3362764,AF,Africa,ZA,South Africa,WC,Province of the Western Cape,Plumstead,,Africa/Johannesburg
+3360687,AF,Africa,ZA,South Africa,WC,Province of the Western Cape,Table View,,Africa/Johannesburg
+1000501,AF,Africa,ZA,South Africa,EC,Province of Eastern Cape,Grahamstown,,Africa/Johannesburg
+7910441,AF,Africa,ZA,South Africa,WC,Province of the Western Cape,Lakeside,,Africa/Johannesburg
+996506,AF,Africa,ZA,South Africa,ZN,KwaZulu-Natal,Hillcrest,,Africa/Johannesburg
+965441,AF,Africa,ZA,South Africa,NW,Province of North West,Phokeng,,Africa/Johannesburg
+998279,AF,Africa,ZA,South Africa,LP,Limpopo,Haenertsburg,,Africa/Johannesburg
+1021396,AF,Africa,ZA,South Africa,MP,Mpumalanga,Balfour,,Africa/Johannesburg
+3367513,AF,Africa,ZA,South Africa,WC,Province of the Western Cape,Grabouw,,Africa/Johannesburg
+3362324,AF,Africa,ZA,South Africa,WC,Province of the Western Cape,Roggebaai,,Africa/Johannesburg
+1000543,AF,Africa,ZA,South Africa,EC,Province of Eastern Cape,Graaff Reinet,,Africa/Johannesburg
+3370352,AF,Africa,ZA,South Africa,WC,Province of the Western Cape,Atlantis,,Africa/Johannesburg
+973537,AF,Africa,ZA,South Africa,ZN,KwaZulu-Natal,Mount Edgecombe,,Africa/Johannesburg
+972772,AF,Africa,ZA,South Africa,ZN,KwaZulu-Natal,Mtwalume,,Africa/Johannesburg
+935581,AF,Africa,RE,Réunion,,,L'Etang,,Indian/Reunion
+1090397,AF,Africa,YT,Mayotte,,Bandrele,Bandrele,,Indian/Mayotte
+1090467,AF,Africa,YT,Mayotte,,Boueni,Boueni,,Indian/Mayotte
+935900,AF,Africa,RE,Réunion,,,Etang-Sale les Bains,,Indian/Reunion
+935397,AF,Africa,RE,Réunion,,,Piton,,Indian/Reunion
+935735,AF,Africa,RE,Réunion,,,La Chaloupe Saint-Leu,,Indian/Reunion
+1090415,AF,Africa,YT,Mayotte,,Chirongui,Chirongui,,Indian/Mayotte
+1090225,AF,Africa,YT,Mayotte,,Koungou,Koungou,,Indian/Mayotte
+962419,AF,Africa,ZA,South Africa,EC,Province of Eastern Cape,Rhodes,,Africa/Johannesburg
+966189,AF,Africa,ZA,South Africa,GP,Gauteng,Parkview,,Africa/Johannesburg
+2410758,AF,Africa,ST,São Tomé and Príncipe,,,,,Africa/Sao_Tome
+3359021,AF,Africa,ZA,South Africa,WC,Province of the Western Cape,Wynberg,,Africa/Johannesburg
+981117,AF,Africa,ZA,South Africa,GP,Gauteng,Lynnwood,,Africa/Johannesburg
+1019330,AF,Africa,ZA,South Africa,EC,Province of Eastern Cape,Bhisho,,Africa/Johannesburg
+959103,AF,Africa,ZA,South Africa,GP,Gauteng,Rosslyn,,Africa/Johannesburg
+955577,AF,Africa,ZA,South Africa,GP,Gauteng,Silverton,,Africa/Johannesburg
+1005264,AF,Africa,ZA,South Africa,GP,Gauteng,Erasmia,,Africa/Johannesburg
+3370147,AF,Africa,ZA,South Africa,WC,Province of the Western Cape,Belhar,,Africa/Johannesburg
+975144,AF,Africa,ZA,South Africa,GP,Gauteng,Modderfontein,,Africa/Johannesburg
+933521,AF,Africa,BW,Botswana,SE,South East District,Lobatse,,Africa/Gaborone
+996060,AF,Africa,ZA,South Africa,EC,Province of Eastern Cape,Hogsback,,Africa/Johannesburg
+1106748,AF,Africa,MU,Mauritius,PW,Plaines Wilhems District,Ebene CyberCity,,Indian/Mauritius
+1023332,AF,Africa,ZA,South Africa,EC,Province of Eastern Cape,Alice,,Africa/Johannesburg
+3368047,AF,Africa,ZA,South Africa,WC,Province of the Western Cape,Elsenburg,,Africa/Johannesburg
+968043,AF,Africa,ZA,South Africa,GP,Gauteng,Onderstepoort,,Africa/Johannesburg
+360706,AF,Africa,EG,Egypt,C,Muhafazat al Qahirah,Almazah,,Africa/Cairo
+2491191,AF,Africa,DZ,Algeria,3,Wilaya de Laghouat,Laghouat,,Africa/Algiers
+2491518,AF,Africa,DZ,Algeria,16,Wilaya d' Alger,Kouba,,Africa/Algiers
+2503147,AF,Africa,DZ,Algeria,9,Wilaya de Blida,Bougara,,Africa/Algiers
+3370903,AF,Africa,SH,Saint Helena,HL,Saint Helena,Jamestown,,Atlantic/St_Helena
+2543063,AF,Africa,MA,Morocco,3,Taza-Al Hoceima-Taounate,Mansour,,Africa/Casablanca
+934347,AF,Africa,MU,Mauritius,MO,Moka District,Le Reduit,,Indian/Mauritius
+974532,AF,Africa,ZA,South Africa,GP,Gauteng,Monument Park,,Africa/Johannesburg
+2246452,AF,Africa,SN,Senegal,SL,Saint-Louis,Saint-Louis,,Africa/Dakar
+1005621,AF,Africa,ZA,South Africa,EC,Province of Eastern Cape,Emerald Hill,,Africa/Johannesburg
+3363882,AF,Africa,ZA,South Africa,WC,Province of the Western Cape,Muizenberg,,Africa/Johannesburg
+3368101,AF,Africa,ZA,South Africa,WC,Province of the Western Cape,Elandsfontein,,Africa/Johannesburg
+979011,AF,Africa,ZA,South Africa,GP,Gauteng,Maraisburg,,Africa/Johannesburg
+935054,AF,Africa,SZ,Swaziland,MA,Manzini District,Kwaluseni,,Africa/Mbabane
+1014489,AF,Africa,ZA,South Africa,EC,Province of Eastern Cape,Butterworth,,Africa/Johannesburg
+1003946,AF,Africa,ZA,South Africa,EC,Province of Eastern Cape,Fort Cox,,Africa/Johannesburg
+1105761,AF,Africa,ZA,South Africa,NW,Province of North West,Medunsa,,Africa/Johannesburg
+956907,AF,Africa,ZA,South Africa,NW,Province of North West,Schweizer-Reneke,,Africa/Johannesburg
+995094,AF,Africa,ZA,South Africa,EC,Province of Eastern Cape,Humansdorp,,Africa/Johannesburg
+968517,AF,Africa,ZA,South Africa,GP,Gauteng,Oberholzer,,Africa/Johannesburg
+954161,AF,Africa,ZA,South Africa,EC,Province of Eastern Cape,Somerset East,,Africa/Johannesburg
+3362870,AF,Africa,ZA,South Africa,WC,Province of the Western Cape,Piketberg,,Africa/Johannesburg
+999602,AF,Africa,ZA,South Africa,WC,Province of the Western Cape,Groot-Brakrivier,,Africa/Johannesburg
+1004348,AF,Africa,ZA,South Africa,GP,Gauteng,Ferndale,,Africa/Johannesburg
+965911,AF,Africa,ZA,South Africa,EC,Province of Eastern Cape,Peninsula,,Africa/Johannesburg
+3367931,AF,Africa,ZA,South Africa,WC,Province of the Western Cape,Faure,,Africa/Johannesburg
+1009273,AF,Africa,ZA,South Africa,EC,Province of Eastern Cape,Doornfontein,,Africa/Johannesburg
+2372248,AF,Africa,GW,Guinea-Bissau,,,,,Africa/Bissau
+3359552,AF,Africa,ZA,South Africa,WC,Province of the Western Cape,Waverley,,Africa/Johannesburg
+932150,AF,Africa,LS,Lesotho,,,Roma,,Africa/Maseru
+987650,AF,Africa,ZA,South Africa,NW,Province of North West,Kosmos,,Africa/Johannesburg
+997344,AF,Africa,ZA,South Africa,GP,Gauteng,Hatfield,,Africa/Johannesburg
+2328376,AF,Africa,NG,Nigeria,,,Obafemi,,Africa/Lagos
+344979,AF,Africa,ET,Ethiopia,AA,Adis Abeba Astedader,Addis Ababa,,Africa/Addis_Ababa
+934219,AF,Africa,MU,Mauritius,MO,Moka District,Pailles,,Indian/Mauritius
+1039854,AF,Africa,MZ,Mozambique,L,Maputo,Matola,,Africa/Maputo
+1020854,AF,Africa,ZA,South Africa,EC,Province of Eastern Cape,Bathurst,,Africa/Johannesburg
+150595,AF,Africa,TZ,Tanzania,6,Pemba North,Raha,,Africa/Dar_es_Salaam
+2501465,AF,Africa,DZ,Algeria,42,Wilaya de Tipaza,Cheraga,,Africa/Algiers
+3368962,AF,Africa,ZA,South Africa,WC,Province of the Western Cape,Darling,,Africa/Johannesburg
+949357,AF,Africa,ZA,South Africa,ZN,KwaZulu-Natal,The Rest,,Africa/Johannesburg
+934570,AF,Africa,MU,Mauritius,PW,Plaines Wilhems District,Curepipe,,Indian/Mauritius
+2322398,AF,Africa,NG,Nigeria,,,Tara,,Africa/Lagos
+2455518,AF,Africa,ML,Mali,1,Kayes,Kayes,,Africa/Bamako
+980148,AF,Africa,ZA,South Africa,EC,Province of Eastern Cape,Majuba,,Africa/Johannesburg
+359499,AF,Africa,EG,Egypt,GZ,Muhafazat al Jizah,Az Zamalik,,Africa/Cairo
+2253441,AF,Africa,SN,Senegal,DK,Dakar,Camberene,,Africa/Dakar
+1015459,AF,Africa,ZA,South Africa,GP,Gauteng,Brooklyn,,Africa/Johannesburg
+3359520,AF,Africa,ZA,South Africa,WC,Province of the Western Cape,Welgemoed,,Africa/Johannesburg
+943882,AF,Africa,ZA,South Africa,FS,Orange Free State,Virginia,,Africa/Johannesburg
+974592,AF,Africa,ZA,South Africa,ZN,KwaZulu-Natal,Montclair,,Africa/Johannesburg
+1023309,AF,Africa,ZA,South Africa,EC,Province of Eastern Cape,Aliwal North,,Africa/Johannesburg
+969770,AF,Africa,ZA,South Africa,GP,Gauteng,Noordheuwel,,Africa/Johannesburg
+988356,AF,Africa,ZA,South Africa,ZN,KwaZulu-Natal,Kokstad,,Africa/Johannesburg
+1014180,AF,Africa,ZA,South Africa,ZN,KwaZulu-Natal,Camperdown,,Africa/Johannesburg
+2328684,AF,Africa,NG,Nigeria,EN,Enugu State,Nsukka,,Africa/Lagos
+2472675,AF,Africa,TN,Tunisia,11,Gouvernorat de Tunis,Le Bardo,,Africa/Tunis
+355549,AF,Africa,EG,Egypt,GZ,Muhafazat al Jizah,Imbabah,,Africa/Cairo
+1020641,AF,Africa,ZA,South Africa,WC,Province of the Western Cape,Beaufort West,,Africa/Johannesburg
+989052,AF,Africa,ZA,South Africa,GP,Gauteng,Kliprivier,,Africa/Johannesburg
+963946,AF,Africa,ZA,South Africa,GP,Gauteng,Protea,,Africa/Johannesburg
+991664,AF,Africa,ZA,South Africa,NC,Northern Cape,Kathu,,Africa/Johannesburg
+946218,AF,Africa,ZA,South Africa,ZN,KwaZulu-Natal,Umdloti,,Africa/Johannesburg
+965446,AF,Africa,ZA,South Africa,ZN,KwaZulu-Natal,Phoenix,,Africa/Johannesburg
+995759,AF,Africa,ZA,South Africa,GP,Gauteng,Honeydew,,Africa/Johannesburg
+3361943,AF,Africa,ZA,South Africa,WC,Province of the Western Cape,Saint Helena Bay,,Africa/Johannesburg
+980845,AF,Africa,ZA,South Africa,MP,Mpumalanga,Machadodorp,,Africa/Johannesburg
+2485801,AF,Africa,DZ,Algeria,30,Wilaya de Ouargla,Ouargla,,Africa/Algiers
+2475785,AF,Africa,DZ,Algeria,29,Wilaya de Mascara,Tizi,,Africa/Algiers
+2483668,AF,Africa,DZ,Algeria,48,Wilaya de Relizane,Relizane,,Africa/Algiers
+351303,AF,Africa,EG,Egypt,BH,Beheira Governorate,Nasr,,Africa/Cairo
+2352381,AF,Africa,NG,Nigeria,,,Adodo,,Africa/Lagos
+2352848,AF,Africa,NG,Nigeria,DE,Delta,Aboh,,Africa/Lagos
+2339150,AF,Africa,NG,Nigeria,ON,Ondo State,Idanre,,Africa/Lagos
+2326171,AF,Africa,NG,Nigeria,ON,Ondo State,Ondo,,Africa/Lagos
+2319908,AF,Africa,NG,Nigeria,KD,Kaduna State,Ungwan Madaki,,Africa/Lagos
+7081212,AF,Africa,NG,Nigeria,ED,Edo,Igueben,,Africa/Lagos
+1069166,AF,Africa,MG,Madagascar,,Vakinankaratra Region,Antsirabe,,Indian/Antananarivo
+1064890,AF,Africa,MG,Madagascar,,Upper Matsiatra,Fianarantsoa,,Indian/Antananarivo
+337996,AF,Africa,ET,Ethiopia,,,,,Africa/Addis_Ababa
+1028434,AF,Africa,MZ,Mozambique,Q,Provincia de Zambezia,Quelimane,,Africa/Maputo
+1049261,AF,Africa,MZ,Mozambique,B,Manica Province,Chimoio,,Africa/Maputo
+956785,AF,Africa,ZA,South Africa,GP,Gauteng,Sebokeng,,Africa/Johannesburg
+984185,AF,Africa,ZA,South Africa,GP,Gauteng,Laudium,,Africa/Johannesburg
+2374775,AF,Africa,GW,Guinea-Bissau,,,Bissau,,Africa/Bissau
+3347762,AF,Africa,AO,Angola,HUI,Huila Province,Lubango,,Africa/Luanda
+897045,AF,Africa,ZM,Zambia,6,North-Western Province,Solwezi,,Africa/Lusaka
+53654,AF,Africa,SO,Somalia,BN,Banaadir,Mogadishu,,Africa/Mogadishu
+910111,AF,Africa,ZM,Zambia,7,Southern Province,Livingstone,,Africa/Lusaka
+1005739,AF,Africa,ZA,South Africa,GP,Gauteng,Elsburg,,Africa/Johannesburg
+979692,AF,Africa,ZA,South Africa,ZN,KwaZulu-Natal,Malvern,,Africa/Johannesburg
+967511,AF,Africa,ZA,South Africa,FS,Orange Free State,Oranjeville,,Africa/Johannesburg
+180646,AF,Africa,KE,Kenya,,Kwale District,Sawa Sawa,,Africa/Nairobi
+178922,AF,Africa,KE,Kenya,,Kakamega District,Turbo,,Africa/Nairobi
+1014012,AF,Africa,ZA,South Africa,MP,Mpumalanga,Carolina,,Africa/Johannesburg
+2327615,AF,Africa,NG,Nigeria,LA,Lagos,Ogudu,,Africa/Lagos
+1106824,AF,Africa,MU,Mauritius,PW,Plaines Wilhems District,Saint Jean,,Indian/Mauritius
+7595661,AF,Africa,RW,Rwanda,1,Kigali,Nyarugunga,,Africa/Kigali
+942470,AF,Africa,ZA,South Africa,ZN,KwaZulu-Natal,Vryheid,,Africa/Johannesburg
+1018673,AF,Africa,ZA,South Africa,NW,Province of North West,Bloemhof,,Africa/Johannesburg
+945260,AF,Africa,ZA,South Africa,FS,Orange Free State,Vaalpark,,Africa/Johannesburg
+1004962,AF,Africa,ZA,South Africa,ZN,KwaZulu-Natal,Estcourt,,Africa/Johannesburg
+939455,AF,Africa,ZA,South Africa,ZN,KwaZulu-Natal,Winklespruit,,Africa/Johannesburg
+1033356,AF,Africa,MZ,Mozambique,N,Nampula,Nampula,,Africa/Maputo
+1028918,AF,Africa,MZ,Mozambique,P,Cabo Delgado Province,Pemba,,Africa/Maputo
+1026014,AF,Africa,MZ,Mozambique,T,Tete,Tete,,Africa/Maputo
+921772,AF,Africa,KM,Comoros,G,Grande Comore,Moroni,,Indian/Comoro
+950933,AF,Africa,ZA,South Africa,EC,Province of Eastern Cape,Swartkops,,Africa/Johannesburg
+2427123,AF,Africa,TD,Chad,CB,Chari-Baguirmi Region,N'Djamena,,Africa/Ndjamena
+1090304,AF,Africa,YT,Mayotte,,,Tsararano,,Indian/Mayotte
+2249028,AF,Africa,SN,Senegal,KD,Kolda,Madina Kokoun,,Africa/Dakar
+354503,AF,Africa,EG,Egypt,SHR,Eastern Province,Kafr ash Shaykh,,Africa/Cairo
+415561,AF,Africa,EG,Egypt,C,Muhafazat al Qahirah,Badr,,Africa/Cairo
+1090322,AF,Africa,YT,Mayotte,,Chiconi,Chiconi,,Indian/Mayotte
+3362024,AF,Africa,ZA,South Africa,WC,Province of the Western Cape,Rosebank,,Africa/Johannesburg
+2330003,AF,Africa,NG,Nigeria,RI,Rivers State,Mogho,,Africa/Lagos
+2255415,AF,Africa,CG,Republic of the Congo,13,Sangha,Pointe Noire,,Africa/Brazzaville

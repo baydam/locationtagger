@@ -77,7 +77,7 @@ class LocationExtractor(object):
 
         cur.execute("CREATE TABLE locations(geoname_id INTEGER, continent_code TEXT, continent_name TEXT, country_iso_code TEXT, country_name TEXT, subdivision_iso_code TEXT, subdivision_name TEXT, city_name TEXT, metro_code TEXT, time_zone TEXT)")
 
-        with open(cur_dir+"/data/City-Region-Locations.csv",encoding = 'UTF') as info:
+        with open(cur_dir+"/data/Africa-City-Region-Locations.csv",encoding = 'UTF') as info:
             reader = csv.reader(info)
             for row in reader:
                 cur.execute("INSERT INTO locations VALUES(?, ?, ?, ?, ?, ?, ?, ?, ?, ?);", row)

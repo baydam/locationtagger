@@ -11,7 +11,7 @@ setuptools.setup(
     description="Detect & Extract locations from text or URL and find relationships among locations",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/kaushiksoni10/locationtagger",
+    url="https://github.com/baydam/locationtagger/tree/filter-africa-region-countries",
     packages= ["locationtagger"],
     include_package_data=True,
     scripts=[
